@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HotelList</string>
+    <string name="hotel_name">Hotel Name</string>
+    <string name="hotel_description">Hotel Description</string>
+    <string name="image_item_hotel">Image Item Hotel</string>
+    <string name="hotel_image">Hotel Image</string>
+    <string name="about_app">About App</string>
+    <string name="about_creator">About Creator</string>
+    <string name="see_more">See More</string>
+    <string name="about_us">About Us</string>
+    <string name="hotel_rating">Hotel Rating</string>
+    <string name="hotel_price">Hotel Price</string>
+    <string name="logo_app">Logo App</string>
+    <string name="app_description">Aplikasi ini didesain untuk memenuhi submission Dicoding Indonesia dengan course "Belajar Membuat Aplikasi Android untuk Pemula". Semua list yang berada di aplikasi ini berasal dari website</string>
+    <string name="email">suryaongkoaldo25@gmail.com</string>
+    <string name="name">Aldo Surya Ongko</string>
+    <string name="website">https://www.travelandleisure.com/worlds-best/hotel-top-brands</string>
+    <string name="photoprofile">photoProfile</string>
+    <string name="map_hotel">Map Hotel</string>
+    <string name="website_hotel">Website Hotel</string>
+</resources>
